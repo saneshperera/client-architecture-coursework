@@ -1,8 +1,8 @@
 # Smart Campus — Sensor & Room Management API
 
 **Module:** 5COSC022W Client-Server Architectures  
-**Student:** [Your Name]  
-**Student ID:** [Your Student ID]  
+**Student:** Sanesh Perera    
+**Student ID:** W19797562  
 **Year:** 2025/26
 
 ---
